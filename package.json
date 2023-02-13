@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "html-to-docx": "^1.6.5"
+  }
+}
